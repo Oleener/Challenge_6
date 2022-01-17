@@ -1,4 +1,4 @@
-# Financial_Planner
+# Housing Rental market data for San Francisco 2010-2016 Analysis
 This is a Jupyter notebook that analyzes the housing rental market data for San Francisco. This analysis combines the use of data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
 
 ---
